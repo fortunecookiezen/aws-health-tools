@@ -11,7 +11,7 @@
     "eventArn": "arn:aws:health:us-east-1::event/AWS_HEALTH_TEST_ALERT",
     "service": "AWS_EC2",
     "eventTypeCode": "AWS_EC2_HEALTH_TEST_EVENT",
-    "eventTypeCategory": "category",
+    "eventTypeCategory": "issue",
     "startTime": "Sun, 05 Jun 2016 05:01:10 GMT",
     "endTime": "Sun, 05 Jun 2016 05:30:57 GMT",
     "eventDescription": [{
